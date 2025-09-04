@@ -8,6 +8,7 @@ Introduction:
   + final.csv: chứa các mã được chấm điểm bằng phương pháp wyckoff & SVM.
   + fundamental_ratios_2019_2025.csv: chứa kết quả lấy về từ hàm get_ratios
   + fundamental_ratios_extracted_2019_2025.csv: parsing file trên, để lấy được các chỉ số PE, PB, ROE, EPS.
+  + problem2_FTU_TECH.ipynb: main source, file duy nhất cần chạy. 
 
 Hướng dẫn chạy: 
 - B1: git clone https://github.com/ShenHiYe/round2_Data_Science_Competition
