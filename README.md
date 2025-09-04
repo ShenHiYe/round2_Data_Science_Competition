@@ -11,6 +11,6 @@ Introduction:
 
 Hướng dẫn chạy: 
 - B1: git clone https://github.com/ShenHiYe/round2_Data_Science_Competition
-- B2 (optional): Chạy file fetch.ipynb
-- B3 (optional): Chạy file SVM.ipynb
+- B2 (optional, vì đã có file data_2019_2025.csv, vnindex_equity.csv và fundamental_ratios_extracted_2019_2025.csv ): Chạy file fetch.ipynb
+- B3 (optional, vì đã có file SVM_selected.csv): Chạy file SVM.ipynb
 - B4: chạy file problem2_FTUTECH.ipynb
